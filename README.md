@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate with gamers
-- 📫 How to reach me info.f2k2@gmail.com
+- 📫 How to reach me https://www.friv4school.io/
 
 <!---
 f2k2game/f2k2game is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
